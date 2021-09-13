@@ -1,7 +1,7 @@
 ![header](https://user-images.githubusercontent.com/43712020/133140860-7dd181bc-f3f5-444d-855f-4092a88d6624.png)
 **beginner frontend developer from Russia.**
 ```javascript
-let andrey = {
+const andrey = {
   age: 17,
   skills: ['Vue', 'JS', 'TS', 'HTML', 'CSS', 'Linux'],
   tools: ['VS Code', 'TailwindCSS', 'Vite'],
