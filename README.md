@@ -2,7 +2,7 @@
 **beginner frontend developer from Russia.**
 ```javascript
 let andrey = {
-  age: ['17'],
+  age: 17,
   skills: ['Vue', 'JS', 'TS', 'HTML', 'CSS', 'Linux'],
   tools: ['VS Code', 'TailwindCSS', 'Vite'],
   isCatPerson: true,
