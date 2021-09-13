@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/43712020/133135978-bf3d69d3-692f-46ce-af0b-559bde2a8f1e.png)
+![header](https://user-images.githubusercontent.com/43712020/133140860-7dd181bc-f3f5-444d-855f-4092a88d6624.png)
 **I am a beginner frontend developer from Russia.**
 ```javascript
 let andrey = {
