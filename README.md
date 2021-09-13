@@ -1,6 +1,4 @@
-![cover](https://user-images.githubusercontent.com/43712020/130298009-32995308-700d-459f-bcd3-60b6e26933dc.png)
-
-## About me
+![header](https://user-images.githubusercontent.com/43712020/133135978-bf3d69d3-692f-46ce-af0b-559bde2a8f1e.png)
 **I am a beginner frontend developer from Russia.**
 ```javascript
 let andrey = {
@@ -12,7 +10,7 @@ let andrey = {
 }
 ```
 
-## Stats
+## Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thendrxie&show_icons=true&theme=vue&count_private=true&include_all_commits=true&border_radius=15&cache_seconds=1800&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thendrxie&theme=vue&border_radius=15&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
