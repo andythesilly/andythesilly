@@ -3,10 +3,11 @@
 ```javascript
 const andrey = {
   age: 17,
-  skills: ['Vue', 'JS', 'TS', 'HTML', 'CSS', 'Linux'],
-  tools: ['VS Code', 'TailwindCSS', 'Vite'],
+  skills: ['JS/TS', 'HTML/CSS', 'Linux'],
+  frameworks: ['Vue'],
+  tools: ['VS Code', 'WebStorm'],
+  occupation: 'KubSU student'
   isCatPerson: true,
-  isMelomane: true,
 }
 ```
 
