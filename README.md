@@ -6,7 +6,7 @@ const andrey = {
   skills: ['JS/TS', 'HTML/CSS', 'Linux'],
   frameworks: ['Vue'],
   tools: ['VS Code', 'WebStorm'],
-  occupation: 'KubSU student'
+  occupation: 'KubSU student',
   isCatPerson: true,
 }
 ```
