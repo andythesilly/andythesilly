@@ -2,10 +2,9 @@
 **beginner frontend developer from Russia.**
 ```javascript
 const andrey = {
-  age: 17,
+  age: 18,
   skills: ['JS/TS', 'HTML/CSS', 'Linux'],
   frameworks: ['Vue'],
-  tools: ['VS Code', 'WebStorm'],
   occupation: 'KubSU student',
   isCatPerson: true,
 }
