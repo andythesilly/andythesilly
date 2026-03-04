@@ -3,7 +3,7 @@
 Salut! I do code and sometimes it's something interesting.
 
 ## 🛠️ My stack
-[![](https://skillicons.dev/icons?i=js,tailwind,php,aws,flutter,vue,svelte,kotlin,swift,linux,bash,mysql,redis)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=js,tailwind,php,aws,flutter,vue,svelte,kotlin,swift,linux,bash,mysql)](https://skillicons.dev)
 
 > **Note:** icons above represent technologies i have actively used to develop real projects, including personal ones.
 
